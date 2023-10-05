@@ -2,8 +2,6 @@
 
 <a href="https://www.packtpub.com/web-development/angular-projects?utm_source=github&utm_medium=repository&utm_campaign=9781838559359"><img src="https://static.packt-cdn.com/products/9781838559359/cover/smaller" alt="Angular Projects" height="256px" align="right"></a>
 
-This is the code repository for [Angular Projects](https://www.packtpub.com/web-development/angular-projects?utm_source=github&utm_medium=repository&utm_campaign=9781838559359), published by Packt.
-
 **Build nine real-world applications from scratch using Angular 8 and TypeScript**
 
 ## What is this book about?
